@@ -1,4 +1,4 @@
-# VersionUpOnBuild
+# VersionUpdateOnBuild
  Set PlayerSettings.bundleVersion OnPreprocessBuild
 
-![](Assets/Packages/VersionUpOnBuild/Docs/VersionUpdateOnBuild.gif)
+![](Assets/Packages/VersionUpdateOnBuild/Docs/VersionUpdateOnBuild.gif)
