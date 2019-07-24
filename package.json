@@ -6,5 +6,5 @@
     "description": "Set PlayerSettings.bundleVersion OnPreprocessBuild",
     "keywords": ["Version", "Build"],
     "category": "Tool",
-    "dependencies": { 
+    "dependencies": { }
 }
