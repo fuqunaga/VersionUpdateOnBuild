@@ -1,0 +1,10 @@
+{
+    "name": "ga.fuquna.versionupdateonbuild",
+    "displayName": "VersionUpdateOnBuild",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Set PlayerSettings.bundleVersion OnPreprocessBuild",
+    "keywords": ["Version", "Build"],
+    "category": "Tool",
+    "dependencies": { 
+}
